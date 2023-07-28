@@ -9,7 +9,7 @@ class Program
         {
             Console.WriteLine(oddArray[i]);
             i++;
-        }
+        }//
         Console.ReadKey();
     }
 }
